@@ -28,13 +28,16 @@ class Board extends React.Component {
 
     //copio l'array
     const squares = this.state.squares.slice();
-    squares[i] = this.state.xIsNext ? 'X' : 'O';
-    this.setState(
-      {
-        squares: squares,
-        xIsNext: !this.state.xIsNext
-      }
-    );
+    if (!squares[i]) {
+      squares[i] = this.state.xIsNext ? 'X' : 'O';
+      this.setState(
+        {
+          squares: squares,
+          xIsNext: !this.state.xIsNext
+        }
+      );
+    }
+
   }
 
   renderSquare(i) {
