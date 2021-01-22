@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tris-app/static/css/main.7b383a07.chunk.css",
+    "main.js": "/tris-app/static/js/main.580771aa.chunk.js",
+    "main.js.map": "/tris-app/static/js/main.580771aa.chunk.js.map",
+    "runtime-main.js": "/tris-app/static/js/runtime-main.a5d09562.js",
+    "runtime-main.js.map": "/tris-app/static/js/runtime-main.a5d09562.js.map",
+    "static/js/2.6fc1804a.chunk.js": "/tris-app/static/js/2.6fc1804a.chunk.js",
+    "static/js/2.6fc1804a.chunk.js.map": "/tris-app/static/js/2.6fc1804a.chunk.js.map",
+    "index.html": "/tris-app/index.html",
+    "static/css/main.7b383a07.chunk.css.map": "/tris-app/static/css/main.7b383a07.chunk.css.map",
+    "static/js/2.6fc1804a.chunk.js.LICENSE.txt": "/tris-app/static/js/2.6fc1804a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5d09562.js",
+    "static/js/2.6fc1804a.chunk.js",
+    "static/css/main.7b383a07.chunk.css",
+    "static/js/main.580771aa.chunk.js"
+  ]
+}
